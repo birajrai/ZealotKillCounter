@@ -1,0 +1,281 @@
+com/jelly/MightyMiner/utils/AngleUtils.java
+ com.jelly.MightyMiner.utils.AngleUtils
+ com.jelly.MightyMiner.utils.AngleUtils$1
+ com.jelly.MightyMiner.utils.AngleUtils$2
+com/jelly/MightyMiner/baritone/automine/movement/PathExecutor.java
+ com.jelly.MightyMiner.baritone.automine.movement.PathExecutor
+ com.jelly.MightyMiner.baritone.automine.movement.PathExecutor$1
+ com.jelly.MightyMiner.baritone.automine.movement.PathExecutor$PlayerState
+com/jelly/MightyMiner/features/TrainTravel.java
+ com.jelly.MightyMiner.features.TrainTravel
+com/jelly/MightyMiner/render/BlockRenderer.java
+ com.jelly.MightyMiner.render.BlockRenderer
+com/jelly/MightyMiner/baritone/automine/calculations/AStarPathFinder.java
+ com.jelly.MightyMiner.baritone.automine.calculations.AStarPathFinder
+com/jelly/MightyMiner/config/aotv/AOTVWaypointsStructs.java
+ com.jelly.MightyMiner.config.aotv.AOTVWaypointsStructs
+ com.jelly.MightyMiner.config.aotv.AOTVWaypointsStructs$Waypoint
+ com.jelly.MightyMiner.config.aotv.AOTVWaypointsStructs$WaypointList
+com/jelly/MightyMiner/utils/BlockUtils/OffsetBox.java
+ com.jelly.MightyMiner.utils.BlockUtils.OffsetBox
+com/jelly/MightyMiner/baritone/automine/config/PathFindSetting.java
+ com.jelly.MightyMiner.baritone.automine.config.PathFindSetting
+com/jelly/MightyMiner/hud/CommissionMacroHUD.java
+ com.jelly.MightyMiner.hud.CommissionMacroHUD
+com/jelly/MightyMiner/utils/HypixelUtils/MineUtils.java
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$1
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$10
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$11
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$12
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$13
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$14
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$15
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$16
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$17
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$18
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$19
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$2
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$20
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$21
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$3
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$4
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$5
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$6
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$7
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$8
+ com.jelly.MightyMiner.utils.HypixelUtils.MineUtils$9
+com/jelly/MightyMiner/utils/DrawUtils.java
+ com.jelly.MightyMiner.utils.DrawUtils
+com/jelly/MightyMiner/MightyMiner.java
+ com.jelly.MightyMiner.MightyMiner
+com/jelly/MightyMiner/features/PingAlert.java
+ com.jelly.MightyMiner.features.PingAlert
+com/jelly/MightyMiner/features/Autosell.java
+ com.jelly.MightyMiner.features.Autosell
+com/jelly/MightyMiner/handlers/KeybindHandler.java
+ com.jelly.MightyMiner.handlers.KeybindHandler
+com/jelly/MightyMiner/baritone/automine/structures/BlockNode.java
+ com.jelly.MightyMiner.baritone.automine.structures.BlockNode
+com/jelly/MightyMiner/events/ReceivePacketEvent.java
+ com.jelly.MightyMiner.events.ReceivePacketEvent
+com/jelly/MightyMiner/baritone/automine/config/BaritoneConfig.java
+ com.jelly.MightyMiner.baritone.automine.config.BaritoneConfig
+com/jelly/MightyMiner/mixins/client/ChunkMixin.java
+ com.jelly.MightyMiner.mixins.client.ChunkMixin
+com/jelly/MightyMiner/command/BaritoneDebug.java
+ com.jelly.MightyMiner.command.BaritoneDebug
+com/jelly/MightyMiner/utils/Utils/MathUtils.java
+ com.jelly.MightyMiner.utils.Utils.MathUtils
+com/jelly/MightyMiner/utils/Utils/ThreadUtils.java
+ com.jelly.MightyMiner.utils.Utils.ThreadUtils
+com/jelly/MightyMiner/mixins/network/MixinNetworkManager.java
+ com.jelly.MightyMiner.mixins.network.MixinNetworkManager
+com/jelly/MightyMiner/utils/BlockUtils/BlockData.java
+ com.jelly.MightyMiner.utils.BlockUtils.BlockData
+com/jelly/MightyMiner/baritone/automine/structures/SemiPath.java
+ com.jelly.MightyMiner.baritone.automine.structures.SemiPath
+com/jelly/MightyMiner/baritone/automine/calculations/behaviour/PathFinderBehaviour.java
+ com.jelly.MightyMiner.baritone.automine.calculations.behaviour.PathFinderBehaviour
+com/jelly/MightyMiner/utils/HittableUtils.java
+ com.jelly.MightyMiner.utils.HittableUtils
+com/jelly/MightyMiner/features/Failsafes.java
+ com.jelly.MightyMiner.features.Failsafes
+com/jelly/MightyMiner/baritone/automine/structures/BlockType.java
+ com.jelly.MightyMiner.baritone.automine.structures.BlockType
+com/jelly/MightyMiner/utils/Timer.java
+ com.jelly.MightyMiner.utils.Timer
+com/jelly/MightyMiner/baritone/automine/structures/Node.java
+ com.jelly.MightyMiner.baritone.automine.structures.Node
+com/jelly/MightyMiner/utils/HypixelUtils/ComissionUtils.java
+ com.jelly.MightyMiner.utils.HypixelUtils.ComissionUtils
+com/jelly/MightyMiner/world/GameState.java
+ com.jelly.MightyMiner.world.GameState
+ com.jelly.MightyMiner.world.GameState$EffectState
+com/jelly/MightyMiner/utils/HypixelUtils/WarpCoordinateUtils.java
+ com.jelly.MightyMiner.utils.HypixelUtils.WarpCoordinateUtils
+com/jelly/MightyMiner/path/AOTVPaths.java
+ com.jelly.MightyMiner.path.AOTVPaths
+com/jelly/MightyMiner/mixins/MixinLoader.java
+ com.jelly.MightyMiner.mixins.MixinLoader
+com/jelly/MightyMiner/gui/AOTVWaypointsPage.java
+ com.jelly.MightyMiner.gui.AOTVWaypointsPage
+ com.jelly.MightyMiner.gui.AOTVWaypointsPage$1
+ com.jelly.MightyMiner.gui.AOTVWaypointsPage$CategoryList
+ com.jelly.MightyMiner.gui.AOTVWaypointsPage$Route
+ com.jelly.MightyMiner.gui.AOTVWaypointsPage$RouteWaypoint
+ com.jelly.MightyMiner.gui.AOTVWaypointsPage$Waypoint
+ com.jelly.MightyMiner.gui.AOTVWaypointsPage$WaypointCategory
+com/jelly/MightyMiner/utils/NotificationHelper.java
+ com.jelly.MightyMiner.utils.NotificationHelper
+com/jelly/MightyMiner/mixins/client/MixinChunkProviderClient.java
+ com.jelly.MightyMiner.mixins.client.MixinChunkProviderClient
+com/jelly/MightyMiner/utils/Utils/ReflectionUtils.java
+ com.jelly.MightyMiner.utils.Utils.ReflectionUtils
+com/jelly/MightyMiner/baritone/automine/config/MiningType.java
+ com.jelly.MightyMiner.baritone.automine.config.MiningType
+com/jelly/MightyMiner/utils/HypixelUtils/ScoreboardUtils.java
+ com.jelly.MightyMiner.utils.HypixelUtils.ScoreboardUtils
+com/jelly/MightyMiner/config/aotv/Root.java
+ com.jelly.MightyMiner.config.aotv.Root
+com/jelly/MightyMiner/utils/TablistUtils.java
+ com.jelly.MightyMiner.utils.TablistUtils
+ com.jelly.MightyMiner.utils.TablistUtils$1
+ com.jelly.MightyMiner.utils.TablistUtils$PlayerComparator
+com/jelly/MightyMiner/macros/Macro.java
+ com.jelly.MightyMiner.macros.Macro
+com/jelly/MightyMiner/utils/BlockUtils/Box.java
+ com.jelly.MightyMiner.utils.BlockUtils.Box
+com/jelly/MightyMiner/baritone/automine/structures/Path.java
+ com.jelly.MightyMiner.baritone.automine.structures.Path
+com/jelly/MightyMiner/baritone/automine/movement/Moves.java
+ com.jelly.MightyMiner.baritone.automine.movement.Moves
+com/jelly/MightyMiner/config/aotv/AOTVWaypoints.java
+ com.jelly.MightyMiner.config.aotv.AOTVWaypoints
+ com.jelly.MightyMiner.config.aotv.AOTVWaypoints$1
+com/jelly/MightyMiner/mixins/client/MixinModList.java
+ com.jelly.MightyMiner.mixins.client.MixinModList
+com/jelly/MightyMiner/command/AOTVWaypointsCommands.java
+ com.jelly.MightyMiner.command.AOTVWaypointsCommands
+com/jelly/MightyMiner/player/Rotation.java
+ com.jelly.MightyMiner.player.Rotation
+com/jelly/MightyMiner/utils/UngrabUtils.java
+ com.jelly.MightyMiner.utils.UngrabUtils
+ com.jelly.MightyMiner.utils.UngrabUtils$1
+com/jelly/MightyMiner/utils/HypixelUtils/SkyblockInfo.java
+ com.jelly.MightyMiner.utils.HypixelUtils.SkyblockInfo
+ com.jelly.MightyMiner.utils.HypixelUtils.SkyblockInfo$MAPS
+com/jelly/MightyMiner/macros/macros/PowderMacro.java
+ com.jelly.MightyMiner.macros.macros.PowderMacro
+ com.jelly.MightyMiner.macros.macros.PowderMacro$1
+ com.jelly.MightyMiner.macros.macros.PowderMacro$2
+ com.jelly.MightyMiner.macros.macros.PowderMacro$3
+ com.jelly.MightyMiner.macros.macros.PowderMacro$4
+ com.jelly.MightyMiner.macros.macros.PowderMacro$State
+ com.jelly.MightyMiner.macros.macros.PowderMacro$TreasureState
+com/jelly/MightyMiner/baritone/automine/calculations/exceptions/NoPathException.java
+ com.jelly.MightyMiner.baritone.automine.calculations.exceptions.NoPathException
+com/jelly/MightyMiner/baritone/automine/calculations/exceptions/ChunkLoadException.java
+ com.jelly.MightyMiner.baritone.automine.calculations.exceptions.ChunkLoadException
+com/jelly/MightyMiner/config/Config.java
+ com.jelly.MightyMiner.config.Config
+com/jelly/MightyMiner/baritone/automine/structures/GridEnvironment.java
+ com.jelly.MightyMiner.baritone.automine.structures.GridEnvironment
+com/jelly/MightyMiner/baritone/automine/calculations/AStarCalculator.java
+ com.jelly.MightyMiner.baritone.automine.calculations.AStarCalculator
+ com.jelly.MightyMiner.baritone.automine.calculations.AStarCalculator$1
+com/jelly/MightyMiner/gui/AOTVGemstoneFilter.java
+ com.jelly.MightyMiner.gui.AOTVGemstoneFilter
+com/jelly/MightyMiner/events/ChunkLoadEvent.java
+ com.jelly.MightyMiner.events.ChunkLoadEvent
+com/jelly/MightyMiner/utils/VectorUtils.java
+ com.jelly.MightyMiner.utils.VectorUtils
+com/jelly/MightyMiner/utils/HypixelUtils/FastMineUtils.java
+ com.jelly.MightyMiner.utils.HypixelUtils.FastMineUtils
+com/jelly/MightyMiner/handlers/MacroHandler.java
+ com.jelly.MightyMiner.handlers.MacroHandler
+com/jelly/MightyMiner/baritone/automine/logging/Logger.java
+ com.jelly.MightyMiner.baritone.automine.logging.Logger
+com/jelly/MightyMiner/mixins/client/PlayerControllerMixin.java
+ com.jelly.MightyMiner.mixins.client.PlayerControllerMixin
+com/jelly/MightyMiner/utils/BlockUtils/BlockUtils.java
+ com.jelly.MightyMiner.utils.BlockUtils.BlockUtils
+ com.jelly.MightyMiner.utils.BlockUtils.BlockUtils$1
+ com.jelly.MightyMiner.utils.BlockUtils.BlockUtils$BlockSides
+com/jelly/MightyMiner/utils/LogUtils.java
+ com.jelly.MightyMiner.utils.LogUtils
+com/jelly/MightyMiner/mixins/client/MixinGlassPane.java
+ com.jelly.MightyMiner.mixins.client.MixinGlassPane
+com/jelly/MightyMiner/mixins/network/MixinNetHandlerPlayClient.java
+ com.jelly.MightyMiner.mixins.network.MixinNetHandlerPlayClient
+com/jelly/MightyMiner/waypoints/WaypointHandler.java
+ com.jelly.MightyMiner.waypoints.WaypointHandler
+com/jelly/MightyMiner/utils/HypixelUtils/NpcUtil.java
+ com.jelly.MightyMiner.utils.HypixelUtils.NpcUtil
+com/jelly/MightyMiner/mixins/forge/MixinConfiguration.java
+ com.jelly.MightyMiner.mixins.forge.MixinConfiguration
+com/jelly/MightyMiner/utils/InventoryUtils.java
+ com.jelly.MightyMiner.utils.InventoryUtils
+com/jelly/MightyMiner/macros/macros/MithrilMacro.java
+ com.jelly.MightyMiner.macros.macros.MithrilMacro
+ com.jelly.MightyMiner.macros.macros.MithrilMacro$1
+ com.jelly.MightyMiner.macros.macros.MithrilMacro$MiningSpeed
+ com.jelly.MightyMiner.macros.macros.MithrilMacro$StaffCheckState
+ com.jelly.MightyMiner.macros.macros.MithrilMacro$UseItem
+com/jelly/MightyMiner/utils/Clock.java
+ com.jelly.MightyMiner.utils.Clock
+com/jelly/MightyMiner/events/BlockChangeEvent.java
+ com.jelly.MightyMiner.events.BlockChangeEvent
+com/jelly/MightyMiner/waypoints/Waypoint.java
+ com.jelly.MightyMiner.waypoints.Waypoint
+com/jelly/MightyMiner/baritone/automine/AutoMineBaritone.java
+ com.jelly.MightyMiner.baritone.automine.AutoMineBaritone
+ com.jelly.MightyMiner.baritone.automine.AutoMineBaritone$1
+ com.jelly.MightyMiner.baritone.automine.AutoMineBaritone$BaritoneState
+com/jelly/MightyMiner/macros/macros/CommissionMacro.java
+ com.jelly.MightyMiner.macros.macros.CommissionMacro
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$1
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$2
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$3
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$ClickState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$ComissionType
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$EmissaryState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$EmissaryWarpState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$KillingState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$MiningSpeed
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$MiningState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$NavigatingState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$NavigatingWarpState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$OpenPigeonState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$PickonimbusState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$PigeonState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$PullItemState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$PullState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$ReWarpState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$RotateToEmissaryState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$StaffCheckState
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$State
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$Target
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$TypeOfCommission
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$UseItem
+ com.jelly.MightyMiner.macros.macros.CommissionMacro$WarpToEmissaryState
+com/jelly/MightyMiner/baritone/automine/config/WalkBaritoneConfig.java
+ com.jelly.MightyMiner.baritone.automine.config.WalkBaritoneConfig
+com/jelly/MightyMiner/features/FuelFilling.java
+ com.jelly.MightyMiner.features.FuelFilling
+ com.jelly.MightyMiner.features.FuelFilling$1
+ com.jelly.MightyMiner.features.FuelFilling$states
+com/jelly/MightyMiner/baritone/automine/calculations/behaviour/PathMode.java
+ com.jelly.MightyMiner.baritone.automine.calculations.behaviour.PathMode
+com/jelly/MightyMiner/mixins/accessors/RenderGlobalAccessor.java
+ com.jelly.MightyMiner.mixins.accessors.RenderGlobalAccessor
+com/jelly/MightyMiner/player/ContinuousRotator.java
+ com.jelly.MightyMiner.player.ContinuousRotator
+com/jelly/MightyMiner/hud/MobKillerHUD.java
+ com.jelly.MightyMiner.hud.MobKillerHUD
+com/jelly/MightyMiner/utils/BlockUtils/AOTVBlockData.java
+ com.jelly.MightyMiner.utils.BlockUtils.AOTVBlockData
+com/jelly/MightyMiner/macros/macros/AOTVMacro.java
+ com.jelly.MightyMiner.macros.macros.AOTVMacro
+ com.jelly.MightyMiner.macros.macros.AOTVMacro$1
+ com.jelly.MightyMiner.macros.macros.AOTVMacro$MiningSpeed
+ com.jelly.MightyMiner.macros.macros.AOTVMacro$State
+ com.jelly.MightyMiner.macros.macros.AOTVMacro$UseItem
+com/jelly/MightyMiner/features/PlayerESP.java
+ com.jelly.MightyMiner.features.PlayerESP
+com/jelly/MightyMiner/features/MobKiller.java
+ com.jelly.MightyMiner.features.MobKiller
+ com.jelly.MightyMiner.features.MobKiller$1
+ com.jelly.MightyMiner.features.MobKiller$CurrentKey
+ com.jelly.MightyMiner.features.MobKiller$States
+ com.jelly.MightyMiner.features.MobKiller$Target
+com/jelly/MightyMiner/macros/macros/GemstoneMacro.java
+ com.jelly.MightyMiner.macros.macros.GemstoneMacro
+ com.jelly.MightyMiner.macros.macros.GemstoneMacro$1
+ com.jelly.MightyMiner.macros.macros.GemstoneMacro$2
+ com.jelly.MightyMiner.macros.macros.GemstoneMacro$MiningSpeed
+ com.jelly.MightyMiner.macros.macros.GemstoneMacro$UseItem
+com/jelly/MightyMiner/baritone/automine/calculations/exceptions/NoBlockException.java
+ com.jelly.MightyMiner.baritone.automine.calculations.exceptions.NoBlockException
+com/jelly/MightyMiner/utils/PlayerUtils.java
+ com.jelly.MightyMiner.utils.PlayerUtils

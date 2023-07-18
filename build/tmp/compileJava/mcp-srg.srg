@@ -1,0 +1,5 @@
+FD: com/jelly/MightyMiner/mixins/client/PlayerControllerMixin/mc com/jelly/MightyMiner/mixins/client/PlayerControllerMixin/field_78776_a
+FD: com/jelly/MightyMiner/mixins/client/PlayerControllerMixin/curBlockDamageMP com/jelly/MightyMiner/mixins/client/PlayerControllerMixin/field_78770_f
+FD: com/jelly/MightyMiner/mixins/client/PlayerControllerMixin/stepSoundTickCounter com/jelly/MightyMiner/mixins/client/PlayerControllerMixin/field_78780_h
+FD: com/jelly/MightyMiner/mixins/client/PlayerControllerMixin/blockHitDelay com/jelly/MightyMiner/mixins/client/PlayerControllerMixin/field_78781_i
+MD: com/jelly/MightyMiner/mixins/client/ChunkMixin/getBlockState (Lnet/minecraft/util/BlockPos;)Lnet/minecraft/block/state/IBlockState; com/jelly/MightyMiner/mixins/client/ChunkMixin/func_177435_g (Lnet/minecraft/util/BlockPos;)Lnet/minecraft/block/state/IBlockState;

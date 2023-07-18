@@ -1,0 +1,67 @@
+{
+  "mappings": {
+    "com/jelly/MightyMiner/mixins/network/MixinNetworkManager": {
+      "channelRead0": "Lnet/minecraft/network/NetworkManager;channelRead0(Lio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/Packet;)V"
+    },
+    "com/jelly/MightyMiner/mixins/network/MixinNetHandlerPlayClient": {
+      "handlePlayerListHeaderFooter": "Lnet/minecraft/client/network/NetHandlerPlayClient;func_175096_a(Lnet/minecraft/network/play/server/S47PacketPlayerListHeaderFooter;)V"
+    },
+    "com/jelly/MightyMiner/mixins/accessors/RenderGlobalAccessor": {
+      "damagedBlocks": "field_72738_E:Ljava/util/Map;"
+    },
+    "com/jelly/MightyMiner/mixins/client/ChunkMixin": {
+      "setBlockState": "Lnet/minecraft/world/chunk/Chunk;func_177436_a(Lnet/minecraft/util/BlockPos;Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/state/IBlockState;"
+    },
+    "com/jelly/MightyMiner/mixins/client/PlayerControllerMixin": {
+      "Lnet/minecraft/client/multiplayer/WorldClient;sendBlockBreakProgress(ILnet/minecraft/util/BlockPos;I)V": "Lnet/minecraft/client/multiplayer/WorldClient;func_175715_c(ILnet/minecraft/util/BlockPos;I)V",
+      "onPlayerDamageBlock": "Lnet/minecraft/client/multiplayer/PlayerControllerMP;func_180512_c(Lnet/minecraft/util/BlockPos;Lnet/minecraft/util/EnumFacing;)Z"
+    },
+    "com/jelly/MightyMiner/mixins/client/MixinChunkProviderClient": {
+      "loadChunk": "Lnet/minecraft/client/multiplayer/ChunkProviderClient;func_73158_c(II)Lnet/minecraft/world/chunk/Chunk;"
+    }
+  },
+  "data": {
+    "notch": {
+      "com/jelly/MightyMiner/mixins/network/MixinNetworkManager": {
+        "channelRead0": "Lek;a(Lio/netty/channel/ChannelHandlerContext;Lff;)V"
+      },
+      "com/jelly/MightyMiner/mixins/network/MixinNetHandlerPlayClient": {
+        "handlePlayerListHeaderFooter": "Lbcy;a(Lhx;)V"
+      },
+      "com/jelly/MightyMiner/mixins/accessors/RenderGlobalAccessor": {
+        "damagedBlocks": "x:Ljava/util/Map;"
+      },
+      "com/jelly/MightyMiner/mixins/client/ChunkMixin": {
+        "setBlockState": "Lamy;a(Lcj;Lalz;)Lalz;"
+      },
+      "com/jelly/MightyMiner/mixins/client/PlayerControllerMixin": {
+        "Lnet/minecraft/client/multiplayer/WorldClient;sendBlockBreakProgress(ILnet/minecraft/util/BlockPos;I)V": "Lbdb;c(ILcj;I)V",
+        "onPlayerDamageBlock": "Lbda;c(Lcj;Lcq;)Z"
+      },
+      "com/jelly/MightyMiner/mixins/client/MixinChunkProviderClient": {
+        "loadChunk": "Lbcz;c(II)Lamy;"
+      }
+    },
+    "searge": {
+      "com/jelly/MightyMiner/mixins/network/MixinNetworkManager": {
+        "channelRead0": "Lnet/minecraft/network/NetworkManager;channelRead0(Lio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/Packet;)V"
+      },
+      "com/jelly/MightyMiner/mixins/network/MixinNetHandlerPlayClient": {
+        "handlePlayerListHeaderFooter": "Lnet/minecraft/client/network/NetHandlerPlayClient;func_175096_a(Lnet/minecraft/network/play/server/S47PacketPlayerListHeaderFooter;)V"
+      },
+      "com/jelly/MightyMiner/mixins/accessors/RenderGlobalAccessor": {
+        "damagedBlocks": "field_72738_E:Ljava/util/Map;"
+      },
+      "com/jelly/MightyMiner/mixins/client/ChunkMixin": {
+        "setBlockState": "Lnet/minecraft/world/chunk/Chunk;func_177436_a(Lnet/minecraft/util/BlockPos;Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/state/IBlockState;"
+      },
+      "com/jelly/MightyMiner/mixins/client/PlayerControllerMixin": {
+        "Lnet/minecraft/client/multiplayer/WorldClient;sendBlockBreakProgress(ILnet/minecraft/util/BlockPos;I)V": "Lnet/minecraft/client/multiplayer/WorldClient;func_175715_c(ILnet/minecraft/util/BlockPos;I)V",
+        "onPlayerDamageBlock": "Lnet/minecraft/client/multiplayer/PlayerControllerMP;func_180512_c(Lnet/minecraft/util/BlockPos;Lnet/minecraft/util/EnumFacing;)Z"
+      },
+      "com/jelly/MightyMiner/mixins/client/MixinChunkProviderClient": {
+        "loadChunk": "Lnet/minecraft/client/multiplayer/ChunkProviderClient;func_73158_c(II)Lnet/minecraft/world/chunk/Chunk;"
+      }
+    }
+  }
+}

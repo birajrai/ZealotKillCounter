@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zealotkillcounter",
+  "name": "ZealotKillCounter",
+  "description": "Best Zealot Kill Counter Plugin",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrBiraj", "Deveep"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
